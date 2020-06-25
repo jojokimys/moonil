@@ -1,5 +1,9 @@
 # 데이터와 머신러닝 - 문일고등학교
 
+## 라이브러리 설치
+파이썬 Beautifulsoup 라이브러리 설치<br />
+`pip install bs4`
+
 ## 필요 링크들
 [구름 IDE](https://ide.goorm.io/) <br />
 [파이썬 코드](https://github.com/jojokimys/moonil/blob/master/crawling.py) <br />
