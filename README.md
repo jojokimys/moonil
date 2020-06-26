@@ -11,3 +11,5 @@ Beautifulsoup 라이브러리 설치<br />
 [파이썬 코드](https://github.com/jojokimys/moonil/blob/master/crawling.py) <br />
 [Teachable Machine](https://teachablemachine.withgoogle.com/train/image) <br />
 [프레젠테이션](https://docs.google.com/presentation/d/1t6svNIdGNDzQy31DTvNMDyv_zayp1x0Zm28_Dva_U2U/edit?usp=sharing)<br />
+
+### 1. 구름 IDE 가입, 개발환경 설정
