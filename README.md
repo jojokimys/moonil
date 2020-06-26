@@ -8,8 +8,7 @@
 ### [Teachable Machine](https://teachablemachine.withgoogle.com/train/image) <br />
 ### [프레젠테이션](https://docs.google.com/presentation/d/1t6svNIdGNDzQy31DTvNMDyv_zayp1x0Zm28_Dva_U2U/edit?usp=sharing)<br />
 
-### 파이썬 라이브러리 설치
-Beautifulsoup 라이브러리 설치<br />
+### 파이썬 Beautifulsoup 라이브러리 설치
 `pip install bs4`
 
 ## 절차
