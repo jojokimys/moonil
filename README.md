@@ -12,6 +12,7 @@ Beautifulsoup 라이브러리 설치<br />
 [Teachable Machine](https://teachablemachine.withgoogle.com/train/image) <br />
 [프레젠테이션](https://docs.google.com/presentation/d/1t6svNIdGNDzQy31DTvNMDyv_zayp1x0Zm28_Dva_U2U/edit?usp=sharing)<br />
 
+## 절차
 ### 1. 구름 IDE 가입, 개발환경 설정
 구름 IDE 에 회원가입 후, 파이선 컨테이너를 생성후 실행.
 
