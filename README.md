@@ -13,3 +13,13 @@ Beautifulsoup 라이브러리 설치<br />
 [프레젠테이션](https://docs.google.com/presentation/d/1t6svNIdGNDzQy31DTvNMDyv_zayp1x0Zm28_Dva_U2U/edit?usp=sharing)<br />
 
 ### 1. 구름 IDE 가입, 개발환경 설정
+구름 IDE 에 회원가입 후, 파이선 컨테이너를 생성후 실행.
+
+### 2. Python 을 사용한 데이터 크롤링
+Python 과 BeautifulSoup 라이브러리를 사용해 원하는 이미지들을 크롤링하기.
+
+### 3. Teachable Machine 에서 머신러닝 실행
+크롤링한 이미지들을 Teachable Machine 에 넣어 머신러닝 모델 생성.
+
+### 4. 생성된 Model 을 추출후 웹사이트에 적용
+Teachable Machine 에서 트레이닝시킨 러닝모델을 추출후 웹사이트에 적용.
