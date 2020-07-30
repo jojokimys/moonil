@@ -2,8 +2,7 @@
 ![websiteimg](https://github.com/jojokimys/moonil/blob/master/moonil.jpg)
 데이터 사이언스와 머신러닝에 대해 알아보고 Teachable Machine 을 통해 만들어보는 나만의 인공지능 실습.
 : learning about data science and machine learning, and making image detecting machine learning project through Teachable Machine by Google
-## [학생들의 프로젝트 사이트](https://moonil.web.app/)<br />
-## Student's project website. Link Above ^^^
+## [학생들의 프로젝트 사이트](https://moonil.web.app/) - Student's project website.
 
 ## 필요 링크들 - links
 ### [구름 IDE](https://ide.goorm.io/) : Groom IDE for coding<br />
